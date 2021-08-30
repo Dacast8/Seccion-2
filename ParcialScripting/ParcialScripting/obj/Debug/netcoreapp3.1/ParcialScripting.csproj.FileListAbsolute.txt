@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.AssemblyInfo.cs
+C:\Users\USER\source\repos\ParcialScripting\ParcialScripting\obj\Debug\netcoreapp3.1\ParcialScripting.csproj.CoreCompileInputs.cache
